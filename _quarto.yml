@@ -9,16 +9,16 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - summary.qmd
-    - references.qmd
+    #- summary.qmd
+    #- references.qmd
 
-bibliography: references.bib
+#bibliography: references.bib
 
 format:
   html:
     theme: cosmo
-  pdf:
-    documentclass: scrreprt
+  # pdf:
+    # documentclass: scrreprt
 
 
 
